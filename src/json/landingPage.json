@@ -125,7 +125,7 @@
     {
       "id": "asd1293ufgdfgs15",
       "title": "Weather App",
-      "imageUrl": "assets/images/weather.PNG",
+      "imageUrl": "assets/images/w.PNG",
       "type": "Website",
       "description": "A js based weather app.",
       "responsibility": ["Web Development"],

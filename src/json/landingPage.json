@@ -44,7 +44,7 @@
     {
       "id": "asd1293ufgdfgs6",
       "title": "Calculator",
-      "imageUrl": "public/assets/images/calculator.PNG",
+      "imageUrl": "assets/images/calculator.PNG",
       "type": "Website",
       "description": "A calculator website usiing HTML,CSS and JS.",
       "responsibility": ["Frontend Development", "Backend Development"],
@@ -53,7 +53,7 @@
     {
       "id": "asd1293ufgdfgs7",
       "title": "Random Colour Generator",
-      "imageUrl": "public/assets/images/colorgenerator.PNG",
+      "imageUrl": "assets/images/colorgenerator.PNG",
       "type": "Website",
       "description": "A Random Colour Generator using HTML,CSS and JS.",
       "responsibility": ["Web Development", "UI/UX Design"],

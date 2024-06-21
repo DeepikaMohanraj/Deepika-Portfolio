@@ -17,7 +17,7 @@
     {
       "id": "asd1293uasdads1",
       "title": "Intern website-Flecs Autotech",
-      "imageUrl": "public/assets/images/flecsautotech.png",
+      "imageUrl": "assets/images/flecsautotech.png",
       "type": "Website",
       "description": "I developed Flecs Autotect, an internship portal for an automation company, using React with Vite for optimized development and Tailwind CSS for consistent styling.",
       "responsibility": ["Frontend Development"],
@@ -26,7 +26,7 @@
     {
       "id": "asd1293ufgdfgs4",
       "title": "Harvest Hub",
-      "imageUrl": "public/assets/images/harvesthub.PNG",
+      "imageUrl": "assets/images/harvesthub.PNG",
       "description": "I developed this project with the tech stack such as HTML,CSS and JS for the frontend., and php ,mysql for the Backend",
       "type": "Website",
       "responsibility": ["Web Development"],
@@ -35,7 +35,7 @@
     {
       "id": "asd1293ufgdfgs5",
       "title": "Portfolio-Website",
-      "imageUrl": "public/assets/images/d.PNG",
+      "imageUrl": "assets/images/d.PNG",
       "type": "Website",
       "description": "A Static Portfolio website developed with HTML,CSS ans Javascript.",
       "responsibility": ["Web Development", "UI/UX Design"],
@@ -107,7 +107,7 @@
     {
       "id": "asd1293ufgdfgs13",
       "title": "Stop Watch",
-      "imageUrl": "public/assets/images/stopwatch.PNG",
+      "imageUrl": "assets/images/stopwatch.PNG",
       "type": "Website",
       "description": "A  js based Stop Watch website.",
       "responsibility": ["Web Development"],
@@ -116,7 +116,7 @@
     {
       "id": "asd1293ufgdfgs14",
       "title": "Dice Roller",
-      "imageUrl": "public/assets/images/dice.PNG",
+      "imageUrl": "assets/images/dice.PNG",
       "type": "Website",
       "description": "A js Dice Roller website.",
       "responsibility": ["Web Development"],
@@ -125,7 +125,7 @@
     {
       "id": "asd1293ufgdfgs15",
       "title": "Weather App",
-      "imageUrl": "src/assets/images/weather.PNG",
+      "imageUrl": "assets/images/weather.PNG",
       "type": "Website",
       "description": "A js based weather app.",
       "responsibility": ["Web Development"],
@@ -134,7 +134,7 @@
     {
       "id": "asd1293ufgdfgs16",
       "title": "Digital clock",
-      "imageUrl": "public/assets/images/digitalclock.PNG",
+      "imageUrl": "assets/images/digitalclock.PNG",
       "type": "Website",
       "description": "A js Digital Clock app.",
       "responsibility": ["Web Development"],
@@ -143,7 +143,7 @@
     {
       "id": "asd1293ufgdfgs17",
       "title": "Counter",
-      "imageUrl": "public/assets/images/counter.PNG",
+      "imageUrl": "assets/images/counter.PNG",
       "type": "Website",
       "description": "A js based Count generator app.",
       "responsibility": ["Web Development"],
